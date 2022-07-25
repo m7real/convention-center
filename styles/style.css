@@ -5,5 +5,14 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background: rgba(0, 0, 0, 0.225);
+    background: rgba(0, 0, 0, 0.313);
+}
+
+@media screen and (max-width:576px) {
+
+
+
+    .img-height {
+        height: 300px;
+    }
 }
